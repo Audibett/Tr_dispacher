@@ -88,6 +88,7 @@ Route::middleware('auth:sanctum')->group(function () {
     ]);
 
 });
+// POD UPLOAD
 
 Route::middleware(['auth:sanctum'])->group(function () {
 
